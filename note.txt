@@ -1,0 +1,9 @@
+master:プロダクトとしてリリースするためのブランチ。リリースしたらタグ付けをする。
+
+develop:開発ブランチ。コードが安定し、リリース準備ができたらmasterブランチへマージする。リリース前はこのブランチが最新バージョンとなる。
+
+feature branched:機能の追加。developから分岐し、developにマージする。
+
+hotfixes:
+
+release branches:
